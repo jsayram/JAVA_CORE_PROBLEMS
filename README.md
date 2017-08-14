@@ -1,6 +1,8 @@
 Jose Ramirez
 
-JAVA_CORE_HW folder can be opened as an intellilj IDEA project, Src folder holds the probems below, each problem is in its own package/directory. 
+JAVA_CORE_HW folder can be opened as an intellilj IDEA project, 
+-Src folder holds the probems below, each problem is in its own package/directory. 
+
 ArrayMinipulte folder can be opened as an intellij IDEA project as well.
 
 CORE JAVA HOMEWORK			
