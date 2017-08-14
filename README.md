@@ -42,8 +42,9 @@ Q13. Display the triangle on the console as follows using any type of loop.  Do 
 Q14. Write a program that demonstrates the switch case. Implement the following functionalities in the cases: <br />
 Case 1: Find the square root of a number using the Math class method.  <br />
 Case 2: Display today’s date. <br />
-Case 3: Split the following string and store it in a sting array.  <br />  
-		“I am learning Core Java” <br />
+Case 3: Split the following string and store it in a string array. 
+<br /> “I am learning Core Java” <br />
+		
 Q15. Write a program that defines an interface having the following methods: addition, subtraction, multiplication, and division.  Create a class that implements this interface and provides appropriate functionality to carry out the required operations. Hard code two operands in a test class having a main method that calls the implementing class. <br />
 
 Q16. Write a program to display the number of characters for a string input. The string should be entered as a command line argument using (String [ ] args). <br />
